@@ -5,5 +5,5 @@ ensure bb-ammunation in your server cfg
 or throw it in your mapping folder thats already ensured/started.
 
 
-![alt text](https://github.com/[Bimby-Boi]/[bb-ammunation]/blob/[branch]/bbamu1.png?raw=true)
-![alt text](https://github.com/[Bimby-Boi]/[bb-ammunation]/blob/[branch]/bbamu2.png?raw=true)
+![alt text](https://github.com/[Bimby-Boi]/[bb-ammunation]/blob/[main]/bbamu1.png?raw=true)
+![alt text](https://github.com/[Bimby-Boi]/[bb-ammunation]/blob/[main]/bbamu2.png?raw=true)
