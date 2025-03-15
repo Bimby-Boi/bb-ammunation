@@ -8,7 +8,7 @@ tested in my server. Collision is fine. Not perfect but good enough.<br />
 My codewalker shows the collision as being messed up though, so if it doesn't work on for someone I'll just redo the collision<br />
 
 I didn't add lighting to the office. <br />
-theres no lighting in there as _technically_ you're not supposed to enter there.<br />
+there's no lighting in there as _technically_ you're not supposed to enter there.<br />
 I didn't add them. If you want them add them yourself.<br />
 
 
